@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-indaba/indaba-pracs-2023/blob/main/practicals/Intro_ML_English_Prac.ipynb)
+
 # AFRIC GeoAI Workshop - Local Setup
 
 This repository contains the materials for the AFRIC 2: Introduction to GeoAI workshop. The workshop covers geospatial data analysis using machine learning techniques including tabular ML with LightGBM and deep learning approaches.
